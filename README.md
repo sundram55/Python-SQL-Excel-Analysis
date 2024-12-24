@@ -16,7 +16,7 @@ This project automates the process of loading data from CSV files into a MySQL d
 
 • Python Notebook: The Jupyter Notebook (Python-SQL-Excel project.ipynb) contains code for:
 
- • Reading and processing CSV files.
+    • Reading and processing CSV files.
 
  • Establishing a connection to a MySQL database.
 
