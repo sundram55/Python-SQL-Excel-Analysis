@@ -4,8 +4,11 @@ This project automates the process of loading data from CSV files into a MySQL d
 
 ## 🚀 Features
 • Data Integration: Automates the creation of MySQL tables and inserts data directly from CSV files.
+
 • Data Cleaning: Handles NaN values and ensures compatibility between data formats and SQL data types.
+
 • Dynamic SQL Generation: Automatically generates CREATE TABLE and INSERT queries based on the structure of pandas DataFrames.
+
 • Analysis and Visualization: Includes basic queries and visualizations to explore the imported data.
 
 ## 📁 Project Structure
