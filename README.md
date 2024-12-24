@@ -13,12 +13,18 @@ This project automates the process of loading data from CSV files into a MySQL d
 
 ## 📁 Project Structure
 • CSV Files: Input data files containing e-commerce information (e.g., customers.csv, orders.csv, etc.).
+
 • Python Notebook: The Jupyter Notebook (Python-SQL-Excel project.ipynb) contains code for:
-Reading and processing CSV files.
-Establishing a connection to a MySQL database.
-Loading data into MySQL tables.
-Performing basic SQL queries and data analysis.
-• MySQL Database: A database named ecommerce stores the imported data.
+
+ • Reading and processing CSV files.
+
+ • Establishing a connection to a MySQL database.
+
+ • Loading data into MySQL tables.
+
+ • Performing basic SQL queries and data analysis.
+
+• MySQL Database: A database named **ecommerce** stores the imported data.
 
 ## 📊 Insights
 1. Order and Delivery Trends
